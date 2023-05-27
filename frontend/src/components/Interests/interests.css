@@ -1,0 +1,77 @@
+#interests-card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 20%;
+    padding: 1% 1% 1%;
+    margin: 1% 0% 0% 3%;
+}
+#int-title {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: large;
+}
+/* Interests Labels */
+#int-one {
+    color: #fff !important;
+    background-color: #303e45 !important;
+    margin: 1%;
+}
+
+#int-two {
+    color: #fff !important;
+    background-color: #3a4b53 !important;
+    margin: 1%;
+}
+
+#int-three {
+    color: #fff !important;
+    background-color: #435761 !important;
+    margin: 1%;
+}
+
+#int-four {
+    color: #fff !important;
+    background-color: #4d636f !important;
+    margin: 1%;
+}
+
+#int-five {
+    color: #fff !important;
+    background-color: #57707d !important;
+    margin: 1%;
+}
+
+#int-six {
+    color: #fff !important;
+    background-color: #607d8b !important;
+    margin: 1%;
+}
+
+#int-seven {
+    color: #fff !important;
+    background-color: #7d97a5 !important;
+    margin: 1%;
+}
+
+#int-eight {
+    color: #000 !important;
+    background-color: #9eb1bb !important;
+    margin: 1%;
+}
+
+#int-nine {
+    color: #000 !important;
+    background-color: #becbd2 !important;
+    margin: 1%;
+}
+
+#int-ten {
+    color: #000 !important;
+    background-color: #dfe5e8 !important;
+    margin: 1%;
+}
+
+#int-eleven {
+    color: #000 !important;
+    background-color: #f5f7f8 !important;
+    margin: 1%;
+}

@@ -1,0 +1,16 @@
+#footer-container {
+    font-size: 30px;
+    color: #fff !important;
+    background-color: #4d636f !important;
+    font-family: sans-serif;
+    padding: 0.1px;
+    margin: 53% 0px 0px;
+}
+
+#footer-two {
+    font-size: 15px;
+    color: #fff !important;
+    background-color: #303e45 !important;
+    font-family: sans-serif;
+    padding: 4px;
+}

@@ -1,0 +1,31 @@
+#events-container {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 20%;
+    margin: -124.8% 0% 0% 71%;
+}
+
+#events {
+    background-image: url('niagara.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 25%;
+}
+
+#events-button {
+    color: #000 !important;
+    background-color: #dfe5e8 !important;
+    border: none;
+    display: inline-block;
+    width: 50%;
+    margin: 5%;
+    padding: 8px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    background-color: inherit;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+}

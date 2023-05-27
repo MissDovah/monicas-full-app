@@ -1,0 +1,36 @@
+#post-card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 40%;
+    padding: 0% 1% 1%;
+    margin: -55.72% 0% 0% 27%;
+    display: flex;
+}
+
+#status {
+    margin: 5% 5% 5% 5%;
+    padding: 2% 66% 8%;
+}
+
+h6 {
+    font-family: sans-serif;
+    font-size: small;
+}
+
+#post-button {
+    color: #fff !important;
+    background-color: #607d8b !important;
+    font-family: sans-serif;
+    font-size: medium;
+    border: none;
+    display: inline-block;
+    margin: 2% 5% 5% -57%;
+    padding: 8px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    background-color: inherit;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+}
